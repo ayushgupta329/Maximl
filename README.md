@@ -1,5 +1,5 @@
-# Maximl
-Smallest Substring
+
+
 NO_OF_CHARS = 256
   
 # Find maximum distinct characters 
@@ -54,9 +54,7 @@ def smallesteSubstr_maxDistictChar(str):
 if __name__ == "__main__": 
       
     # Input String 
-    str = "AABBBCBB"
+    str =input('')
       
     l = smallesteSubstr_maxDistictChar(str); 
-    print( "The length of the smallest substring", 
-           "consisting of maximum distinct", 
-           "characters :", l) 
+    print(l) 
