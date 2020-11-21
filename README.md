@@ -1,9 +1,9 @@
-
+# Find maximum distinct characters 
+# in any string 
 
 NO_OF_CHARS = 256
   
-# Find maximum distinct characters 
-# in any string 
+
 def max_distinct_char(str, n): 
   
     # Initialize all character's 
